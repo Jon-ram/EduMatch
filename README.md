@@ -44,6 +44,12 @@
 
 ### Identidad Grafica  
 
+#### Logo De Marca
+<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_De_Marca.jpg" style="width:300px ; height:220px ;"/>
+
+#### Logo De Aplicacion 
+<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_EduMatch.jpg" style="width:300px ; height:250px ;"/>
+
 ---
 ### Lista De Tecnologías
 - HTML
