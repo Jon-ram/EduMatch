@@ -44,6 +44,7 @@
 
 ### Identidad Grafica  
 
+---
 ### Lista De Tecnologías
 - HTML
 - CSS
