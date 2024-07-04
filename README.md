@@ -51,6 +51,9 @@
 <img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_EduMatch.jpg" style="width:300px ; height:250px ;"/>
 
 
+### Paleta de colores
+<img src="https://github.com/Jon-ram/EduMatch/blob/main/paleta.png" style="width:300px ; height:300px ;"/>
+
 ---
 ### Requerimientos Funcionales
 1. Registro de usuarios: Permitir a los usuarios crear cuentas para acceder a funciones personalizadas
@@ -98,8 +101,8 @@
 23. Análisis de rendimiento: Realizar pruebas periódicas de rendimiento y análisis de carga para identificar y solucionar cuellos de botella y problemas de rendimiento.
 24. Documentación: Mantener una documentación detallada y actualizada que describa la arquitectura, el diseño y el funcionamiento de la página web para facilitar su mantenimiento y futuras actualizaciones.
 25. Traducción a varios idiomas: Ofrecer la plataforma en varios idiomas para llegar a una audiencia más amplia.
----
-### Paleta de colores
+
+
 ---
 ### Lista De Tecnologías
 - **Aplicacion:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
