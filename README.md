@@ -58,10 +58,10 @@
 
 ---
 ### Autores
-- Karen Lizbeth Negrete Hernández
-- Jonathan Baldemar Ramírez Reyes 
+- [Karen Lizbeth Negrete Hernández](https://github.com/karenNegrete06)
+- [Jonathan Baldemar Ramírez Reyes](https://github.com/Jon-ram) 
 - José Agustín Jiménez Castillo 
-- Brian Jesús Mendoza Márquez
+- [Brian Jesús Mendoza Márquez](https://github.com/BR1ANJ3Sus3B)
 
 ---
 ### Requerimientos Funcionales
