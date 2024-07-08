@@ -9,21 +9,24 @@
 
 ### Problematica
 <p align="justify">
-  Actualmente los jóvenes sufren una severa dificultad para encontrar una carrera ideal para ellos, debido a la falta de información referente a las carreras que existen y la falta de herramientas.
+  Actualmente los jóvenes sufren una severa dificultad para encontrar una carrera ideal para ellos, debido a la falta de información referente a las carreras que existen y la falta de herramientas. 
+  Esto se ve afectado en las diversas paginas, aplicacciones y foros educativos por ende nuestros jovenes presentan estas dificultades.
 </p>
 
 ---
 
 ### Propuesta
 <p align="justify">
-  se propone realizar una aplicación que ayude a los jóvenes mediante diferentes tipos de estudio a tomar una mejor e informada decisión respecto a la carrera que les haya interesado durante el transcurso del uso de esta aplicación.
+  se propone realizar una aplicación que ayude a los jóvenes mediante diferentes tipos de estudio a tomar una mejor e informada decisión respecto a la carrera que les haya interesado durante el transcurso del uso de esta aplicación. 
+  Dado por hecho la Aplicacion cuenta con una diversa gama informatica respecto a las diferentes opciones en las carreras, lo que facilita una eleccion segura. 
 </p>
 
 ---
 
 ### Objetivo General
 <p align="justify">
-  Crear un sitio web dedicado a ayudar a los jóvenes mediante diferentes tipos de estudio a tomar una mejor decisión respecto a la profesión que desean.  
+  Crear un sitio web dedicado a ayudar a los jóvenes mediante diferentes tipos de estudio a tomar una mejor decisión respecto a la profesión que desean. esto impulsa a nuestros estudiantes a mejorar su desempeño academico,
+  y en la elecion que estos elijan sea de diversas opciones y mejoren en su vida a futuro  
 </p>
 
 ---
