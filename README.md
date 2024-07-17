@@ -9,8 +9,7 @@
 
 ### Problematica
 <p align="justify">
-  Actualmente los jóvenes sufren una severa dificultad para encontrar una carrera ideal para ellos, debido a la falta de información referente a las carreras que existen y la falta de herramientas. 
-  Esto se ve afectado en las diversas paginas, aplicacciones y foros educativos por ende nuestros jovenes presentan estas dificultades.
+  Muchos estudiantes en búsqueda de empleo no tienen claro cuáles son las opciones de carrera disponibles y cuáles se alinean mejor con sus intereses y habilidades, ademas de lo anterior las instituciones educativas a menudo carecen de los recursos necesarios para proporcionar orientación profesional individualizada a todos sus estudiantes lo que dificulta la busqueda de una carera profecional que sea de su agrado.
 </p>
 
 ---
