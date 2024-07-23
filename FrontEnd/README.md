@@ -1,17 +1,13 @@
-# CSS ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ ## Frontend ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JS](    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-En esta seccion se realizara y almacenara todo el codigo css utilizado para el funcionamiento de la aplicacion.
+En este folder encontraremos todos los archivos relacionados con la interfaz de usuario y la lógica de presentación de la aplicación web, incluyendo tipografia, colores, dimensiones y animaciones de interacción.
 
-## Estructura de Archivos
->Integradora-EduMatch<br>
+  ## Estructura de Archivos
+ >Integradora-EduMatch<br>
 >| - BackEnd<br>
 >| - Database<br>
->| - Documentacion
->| - FrontEnd
->&nbsp;&nbsp; | - Assets<br>
->&nbsp;&nbsp; | - **CSS**<br>
->&nbsp;&nbsp; | - HTML<br>
->&nbsp;&nbsp; | - JS<br>
+>| - Documentacion<br>
+>| - **FrontEnd**
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|

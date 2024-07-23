@@ -4,7 +4,7 @@ En esta seccion se realizara y almacenara todo el codigo de JavaScript utilizado
 
 ## Estructura de Archivos
 >Integradora-EduMatch<br>
->| -BackEnd<br>
+>| - BackEnd<br>
 >| - Database<br>
 >| - Documentacion
 >| - FrontEnd

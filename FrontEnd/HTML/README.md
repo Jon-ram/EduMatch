@@ -4,14 +4,14 @@ En esta seccion se realizara y almacenara todo el codigo HTML utilizado para el 
 
 ## Estructura de Archivos
 >Integradora-EduMatch<br>
->| -BackEnd<br>
+>| - BackEnd<br>
 >| - Database<br>
 >| - Documentacion
 >| - FrontEnd
->&nbsp;&nbsp; |Assets<br>
->&nbsp;&nbsp; |CSS<br>
->&nbsp;&nbsp; |**HTML**<br>
->&nbsp;&nbsp; |JS<br>
+>&nbsp;&nbsp; | - Assets<br>
+>&nbsp;&nbsp; | - CSS<br>
+>&nbsp;&nbsp; | - **HTML**<br>
+>&nbsp;&nbsp; | - JS<br>
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
