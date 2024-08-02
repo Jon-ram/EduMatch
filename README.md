@@ -114,7 +114,8 @@
 
 ---
 ### Organigrama del Proyecto
-<img src="https://github.com/Jon-ram/EduMatch/blob/main/organigrama EduMatch.png" style="width:300px ; height:300px ;"/>
+![Organigrama de EduMatch](https://github.com/user-attachments/assets/f1575390-e502-4afd-9045-bef29162b528)
+
 
 ---
 ### Autores
