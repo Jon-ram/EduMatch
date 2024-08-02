@@ -11,7 +11,7 @@ los sketches se haran representaciones rápidas y simplificadas de ideas, diseñ
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Mockups <br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Prototype<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Site_Map <br>
->&nbsp;&nbsp;&nbsp;&nbsp;**| - Sketches **<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;**| - Sketches**<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Wireframes <br>
 >&nbsp;&nbsp;| - Installation_Manual<br>
 >&nbsp;&nbsp;| - NFRs<br>
