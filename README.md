@@ -111,6 +111,11 @@
 - **Documentación:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - **Servidor:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+
+---
+### Organigrama del Proyecto
+<img src="https://github.com/Jon-ram/EduMatch/blob/main/organigrama EduMatch.png" style="width:300px ; height:300px ;"/>
+
 ---
 ### Autores
 - [Karen Lizbeth Negrete Hernández](https://github.com/karenNegrete06)
