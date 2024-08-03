@@ -16,7 +16,7 @@
 
 ### Propuesta
 <p align="justify">
-  se propone realizar una aplicación que ayude a los jóvenes mediante diferentes tipos de estudio a tomar una mejor e informada decisión respecto a la carrera que les haya interesado durante el transcurso del uso de esta aplicación. 
+  Realizar una aplicación que ayude a los jóvenes mediante diferentes tipos de estudio a tomar una mejor e informada decisión respecto a la carrera que les haya interesado durante el transcurso del uso de esta aplicación. 
   Dado por hecho la Aplicacion cuenta con una diversa gama informatica respecto a las diferentes opciones en las carreras, lo que facilita una eleccion segura. 
 </p>
 
