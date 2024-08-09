@@ -26,9 +26,10 @@ En esta seccion encontraremos los requerimientos no funcionales de la aplicacion
 24. Documentación: Mantener una documentación detallada y actualizada que describa la arquitectura, el diseño y el funcionamiento de la página web para facilitar su mantenimiento y futuras actualizaciones.
 25. Traducción a varios idiomas: Ofrecer la plataforma en varios idiomas para llegar a una audiencia más amplia.
 
-
-**Equipo de Desarrollo**
-|Integrantes|contactos|Rol|Observaciones|
-|Karen Lizbeth Negrete Hernández|@karenNegrete06|Lider de Documentación|No ha revisado|
-|Jonathan Baldemar Ramírez Reyes|@Jon-ram|Encardo de documentacion|No ha revisado|
-|Brian Jesús Mendoza Márquez|@BR1ANJ3Sus3B|Encargado de documentacion|No ha revisado|
+## Equipo de Desarrollo
+|Integrante|Contacto|Rol|Observaciones|
+|----------|-------|---|-------------|
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Lider Documentation|✔ No a sido aprobado
+| Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Encargado Documentation|❌ No a sido aprobado
+| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|❌ No a sido aprobado
+| José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Encargado Documentation|❌ No a sido aprobado
