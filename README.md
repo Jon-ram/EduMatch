@@ -104,12 +104,9 @@
 24. Documentación: Mantener una documentación detallada y actualizada que describa la arquitectura, el diseño y el funcionamiento de la página web para facilitar su mantenimiento y futuras actualizaciones.
 25. Traducción a varios idiomas: Ofrecer la plataforma en varios idiomas para llegar a una audiencia más amplia.
 
-
 ---
-### Lista De Tecnologías
-- **Aplicacion:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- **Documentación:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- **Servidor:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Diagrama de Gantt
+![Cronograma_EduMatch](https://github.com/user-attachments/assets/71bfd619-a0a8-4711-aa4c-9edbb29f9adb)
 
 
 ---
@@ -123,4 +120,12 @@
 - [Jonathan Baldemar Ramírez Reyes](https://github.com/Jon-ram) 
 - [José Agustín Jiménez Castillo](https://github.com/agustin963) 
 - [Brian Jesús Mendoza Márquez](https://github.com/BR1ANJ3Sus3B)
+
+---
+### Lista De Tecnologías
+- **Aplicacion:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- **Documentación:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- **Servidor:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
   
