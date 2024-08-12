@@ -57,6 +57,11 @@
 <img src="https://github.com/Jon-ram/EduMatch/blob/main/paleta.png" style="width:300px ; height:300px ;"/>
 
 ---
+### Diagrama de Roles
+![Roles_EduMatch](https://github.com/user-attachments/assets/ac6f7542-77b4-49fa-b5ed-efb8ab4fbb5f)
+
+
+---
 
 ### Diagrama de Gantt
 ![Cronograma_EduMatch](https://github.com/user-attachments/assets/71bfd619-a0a8-4711-aa4c-9edbb29f9adb)
