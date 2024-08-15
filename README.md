@@ -46,12 +46,9 @@
 
 ### Identidad Grafica  
 
-#### Logo De Marca
-<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_De_Marca.jpg" style="width:300px ; height:220px ;"/>
-
-#### Logo De Aplicacion 
-<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_EduMatch.jpg" style="width:300px ; height:250px ;"/>
-
+|Logo De Marca|Logo De Aplicacion|
+|----------|-------|
+|<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo%20EduMatch.png" style="width:300px ; height:220px ;"/>|<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_De_Marca.jpg" style="width:300px ; height:220px ;"/>|
 
 ### Paleta de colores
 <img src="https://github.com/Jon-ram/EduMatch/blob/main/paleta.png" style="width:300px ; height:300px ;"/>
