@@ -74,10 +74,14 @@
 
 ---
 ### Autores
-- [Karen Lizbeth Negrete Hernández](https://github.com/karenNegrete06)
-- [Jonathan Baldemar Ramírez Reyes](https://github.com/Jon-ram) 
-- [José Agustín Jiménez Castillo](https://github.com/agustin963) 
-- [Brian Jesús Mendoza Márquez](https://github.com/BR1ANJ3Sus3B)
+
+|Integrante|Contacto|Rol|
+|----------|-------|---|
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Documentador|
+| Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Desarrollador de FrontEnd|
+| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador de BackEnd|
+| José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Desarrollador de DataBases|
+
 
 ---
 ### Lista De Tecnologías
