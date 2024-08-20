@@ -4,6 +4,8 @@
 |----------|-------|
 |<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo%20EduMatch.png" style="width:300px ; height:220px ;"/>|<img src="https://github.com/Jon-ram/EduMatch/blob/main/Logo_De_Marca.jpg" style="width:300px ; height:220px ;"/>|
 
+---
+
 ### Descripción
 <p align="justify">
   Edumatch es una aplicación web diseñada para ayudar a individuos a identificar y explorar opciones de carrera que se alineen con sus intereses, habilidades y valores personales. Es una herramienta integral que combina evaluaciones personalizadas, recomendaciones de carreras, recursos educativos y oportunidades de conexión profesional para guiar a los usuarios en su camino hacia una carrera satisfactoria.
