@@ -49,11 +49,6 @@
 10.	Permitir a los usuarios establecer y realizar seguimiento de sus metas profesionales.
 
 ---
-
-### Paleta de colores
-<img src="https://github.com/Jon-ram/EduMatch/blob/main/paleta.png" style="width:300px ; height:300px ;"/>
-
----
 ### Diagrama de Roles
 ![Roles_EduMatch](https://github.com/user-attachments/assets/ac6f7542-77b4-49fa-b5ed-efb8ab4fbb5f)
 
