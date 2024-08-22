@@ -1,4 +1,16 @@
 # Diccionario de datos 
+>| - Backend <br>
+>**| - Database** <br>
+>&nbsp;&nbsp;|- Backups<br>
+>&nbsp;&nbsp;**|- Data_Dictionary**<br>
+>&nbsp;&nbsp;|- Diagrams<br>
+>&nbsp;&nbsp;|- Queries<br>
+>&nbsp;&nbsp;|- Scripts<br>
+>&nbsp;&nbsp;|- Triggers<br>
+>&nbsp;&nbsp;|- USPs<br>
+>| - Documentation<br>
+>| - FrontEnd
+
 En este carpeta se agregara el diccionario de la base de datos del software EduMach.
 El objetivo del diccionario de datos es documentar los detalles tecnicos relacionados
  con el almacenamiento en la base de datos , incluyendo aspectos como el tipo de dato
