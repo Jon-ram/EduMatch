@@ -31,7 +31,7 @@
 ### Objetivo General
 <p align="justify">
   Crear un sitio web dedicado a ayudar a los jóvenes mediante diferentes tipos de estudio a tomar una mejor decisión respecto a la profesión que desean. esto impulsa a nuestros estudiantes a mejorar su desempeño academico,
-  y en la elecion que estos elijan sea de diversas opciones y mejoren en su vida a futuro  
+  y en la elecion que estos elijan sea de diversas opciones y mejoren en su vida a futuro.
 </p>
 
 ---
