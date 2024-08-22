@@ -1,0 +1,159 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #dbdfdf, #4780808a);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 420px;
+    text-align: center;
+    border: 2px solid #00c4cc;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: #444;
+    font-weight: 500;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fff;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group input:focus {
+    border-color: #00c4cc;
+    box-shadow: 0 0 8px rgba(0, 196, 204, 0.3);
+    outline: none;
+}
+
+.password-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.password-wrapper input {
+    padding-right: 40px;
+}
+
+.password-wrapper i {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #888;
+}
+
+.password-wrapper i.fa-eye,
+.password-wrapper i.fa-eye-slash {
+    color: #00c4cc;
+}
+
+.form-group .error {
+    color: #ff4d4d;
+    font-size: 0.875em;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #00c4cc;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #009999;
+    transform: translateY(-2px);
+}
+
+.social-buttons {
+    margin-top: 20px;
+}
+
+.social-buttons button {
+    background-color: #ddd;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-buttons button.google {
+    background-color: #db4437;
+    color: #fff;
+}
+
+.social-buttons button.facebook {
+    background-color: #3b5998;
+    color: #fff;
+}
+
+.social-buttons button.phone {
+    background-color: #00c4cc;
+    color: #fff;
+}
+
+.social-buttons i {
+    margin-right: 10px;
+}
+
+.login-link {
+    margin-top: 20px;
+}
+
+.login-link p {
+    margin: 0;
+    color: #555;
+    font-size: 14px;
+}
+
+.login-link a {
+    color: #00c4cc;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}

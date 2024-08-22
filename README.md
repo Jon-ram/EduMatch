@@ -86,5 +86,10 @@
 - **Documentación:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - **Servidor:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
+---
+### Autores
+- [Karen Lizbeth Negrete Hernández](https://github.com/karenNegrete06)
+- [Jonathan Baldemar Ramírez Reyes](https://github.com/Jon-ram) 
+- [José Agustín Jiménez Castillo](https://github.com/agustin963) 
+- [Brian Jesús Mendoza Márquez](https://github.com/BR1ANJ3Sus3B)
   
