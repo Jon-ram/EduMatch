@@ -20,5 +20,5 @@ Otra de sus funciones es aumentar la seguridad e integridad de la información. 
 |----------|-------|---|-------------|
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador Base de datos|👌 Aprobado 
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Desarrollador Base de datos|👌 Aprobado 
-| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)| Desarrollador Base de datos|❌ No a sido aprobado
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)| Desarrollador Base de datos|❌ Esta mal estructurado 
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Lider  Base de datos |👌 Aprobado
