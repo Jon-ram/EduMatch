@@ -1,4 +1,16 @@
 # Diagrams
+>| - Backend <br>
+>**| - Database** <br>
+>&nbsp;&nbsp;|- Backups<br>
+>&nbsp;&nbsp;|- Data_Dictionary<br>
+>&nbsp;&nbsp;**|- Diagrams**<br>
+>&nbsp;&nbsp;|- Queries<br>
+>&nbsp;&nbsp;|- Scripts<br>
+>&nbsp;&nbsp;|- Triggers<br>
+>&nbsp;&nbsp;|- USPs<br>
+>| - Documentation<br>
+>| - FrontEnd
+
 En esta carpeta se agregara todo lo relacionado con diagramas de la base de datos. diagrama de base de datos muestra la estructura lógica de una base, incluyendo las relaciones y restricciones que determinan cómo se almacenan los datos y cómo se accede a ellos. un ejemplo de diagrama es el modelo entidad-relacion.
 
  ## Equipo de Desarrollo
