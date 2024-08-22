@@ -1,4 +1,4 @@
-# Diccionario de datos 
+# Diccionario de datos  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 En este carpeta se agregara el diccionario de la base de datos del software EduMach.
 El objetivo del diccionario de datos es documentar los detalles tecnicos relacionados
