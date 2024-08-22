@@ -2,10 +2,9 @@
 
 En esta seccion encontraremos los archivos que tienen que ver con el funcionamiento de la aplicacion, incluyendo, la vista previa de como se vera, datos acerca del funcionamiento y los requerimientos que debe cumplir.
 
+## Estructura de Archivos
 >Integradora-EduMatch<br>
->| -Documentation<br>
->&nbsp;&nbsp; **| -GUI**<br>
->&nbsp;&nbsp; | -Documentation<br>
+>**| -Documentation**<br>
 >| - Database<br>
 >| - Documentacion<br>
 >| - FrontEnd
@@ -13,7 +12,7 @@ En esta seccion encontraremos los archivos que tienen que ver con el funcionamie
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
-| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Lider Documentation|❌ No a sido aprobado
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Lider Documentation|👌 Aprobado 
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Encargado Documentation|👌 Aprobado 
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|❌ No a sido aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Encargado Documentation|👌 Aprobado
