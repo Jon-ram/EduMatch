@@ -5,13 +5,22 @@
 En esta carpeta se agregaran todos lo relacionado con la base de datos del software a desarrollar.
 
 
+
 >Integradora-EduMatch<br>
 >| - Databases <br>
->|- Data dictionary
->| - Diagrams
->| - Scrips
->| - Triggers
->| -USPs
+  >**| - Database** <br>
+>&nbsp;&nbsp;|- Backups<br>
+>&nbsp;&nbsp;|- Data_Dictionary<br>
+>&nbsp;&nbsp;|- Diagrams<br>
+>&nbsp;&nbsp;|- Queries<br>
+>&nbsp;&nbsp;|- Scripts<br>
+>&nbsp;&nbsp;|- Triggers<br>
+>&nbsp;&nbsp;|- USPs<br>
+>|- Data dictionary<br>
+>| - Diagrams<br>
+>| - Scrips<br>
+>| - Triggers<br>
+>| -USPs<br>
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
