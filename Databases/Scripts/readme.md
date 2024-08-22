@@ -1,4 +1,4 @@
-# Scrips 
+# Scrips  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 En este apartado ira todo lo relacionado con scrips de la base de datos del software. Un script en el contexto de bases de datos se refiere a un conjunto de instrucciones o comandos escritos en un lenguaje específico. Estos scripts se utilizan para automatizar tareas relacionadas con la creación, modificación o eliminación de estructuras de datos en una base de datos. Por ejemplo, puedes crear un script para crear tablas, insertar datos, actualizar registros o eliminar información. 
 
