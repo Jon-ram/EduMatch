@@ -14,5 +14,5 @@ Un manual de instalación detallado que proporciona instrucciones paso a paso so
 |----------|-------|---|-------------|
 | Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Lider Documentation|❌ No a sido aprobado
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Encargado Documentation|👌 Aprobado
-| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|❌ No a sido aprobado
+| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|👌 Aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Encargado Documentation|👌 Aprobado
