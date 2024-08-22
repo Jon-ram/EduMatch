@@ -1,4 +1,7 @@
 # Queries
+
+En este apartado se subira todo lo relacionado con queries de la base de datos.Las queries o consultas son instrucciones que se envían a una base de datos para recuperar, modificar o eliminar datos. En otras palabras, las queries permiten interactuar con la base de datos y realizar operaciones específicas sobre los datos almacenados en ella.
+
 >| - Backend <br>
 >**| - Database** <br>
 >&nbsp;&nbsp;|- Backups<br>
@@ -11,7 +14,6 @@
 >| - Documentation<br>
 >| - FrontEnd
 
-en este apartado se subira todo lo relacionado con queries de la base de datos.Las queries o consultas son instrucciones que se envían a una base de datos para recuperar, modificar o eliminar datos. En otras palabras, las queries permiten interactuar con la base de datos y realizar operaciones específicas sobre los datos almacenados en ella.
   ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
