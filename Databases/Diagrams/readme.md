@@ -1,4 +1,4 @@
-# Diagrams
+# Diagrams  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 En esta carpeta se agregara todo lo relacionado con diagramas de la base de datos. diagrama de base de datos muestra la estructura lógica de una base, incluyendo las relaciones y restricciones que determinan cómo se almacenan los datos y cómo se accede a ellos. un ejemplo de diagrama es el modelo entidad-relacion.
 
