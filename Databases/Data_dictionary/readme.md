@@ -22,5 +22,5 @@ El objetivo del diccionario de datos es documentar los detalles tecnicos relacio
 |----------|-------|---|-------------|
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador Base de datos|👌 Aprobado 
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Desarrollador Base de datos|👌 Aprobado 
-| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)| Desarrollador Base de datos|❌ No a sido aprobado
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)| Desarrollador Base de datos|👌 Aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Lider  Base de datos |👌 Aprobado
