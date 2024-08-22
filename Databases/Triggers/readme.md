@@ -1,4 +1,4 @@
-# Triggers
+# Triggers  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 En este apartado ira todo lo relacionado con Triggers relacionado con la base de datos del software.
 La principal función de los trigger es contribuir a mejorar la gestión de la base de datos. Gracias a ellos muchas operaciones se pueden realizar de forma automática, sin necesidad de intervención humana, lo que permite ahorrar mucho tiempo.
