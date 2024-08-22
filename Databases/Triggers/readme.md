@@ -16,7 +16,6 @@ La principal función de los trigger es contribuir a mejorar la gestión de la b
 Otra de sus funciones es aumentar la seguridad e integridad de la información. Esto lo consiguen gracias a la programación de restricciones o requerimientos de verificación que permiten minimizar los errores y sincronizar la información.
 
   ## Equipo de Desarrollo
-## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador Base de datos|👌 Aprobado 
