@@ -12,7 +12,7 @@ En este folder encontraremos todos los archivos relacionados con la interfaz de 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
-| Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Lider de FrontEnd|❌ No a sido aprobado
+| Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Lider de FrontEnd|👌 Aprobado
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador FrontEnd|❌ Aun no se ha subido codigo
 | Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Desarrollador FrontEnd|❌ No a sido aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Desarrollador Base de datos |👌 Aprobado
