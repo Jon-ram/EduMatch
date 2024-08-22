@@ -1,4 +1,5 @@
-# USPs
+# USPs ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+en este apartado se subira todo lo relacionadado con las USPs, USPs se refiere a la normalización y verificación de direcciones. La normalización implica estandarizar los datos de direcciones según un formato aceptado, como el proporcionado por el Servicio Postal de los Estados Unidos (USPS). Esto ayuda a mejorar la validez y consistencia de las direcciones, aumentando las tasas de entrega y minimizando los correos devueltos³. En resumen, USPs en bases de datos se refiere a asegurar que las direcciones estén correctamente formateadas y validadas para su uso eficiente. 
 >| - Backend <br>
 >**| - Database** <br>
 >&nbsp;&nbsp;|- Backups<br>
@@ -11,7 +12,7 @@
 >| - Documentation<br>
 >| - FrontEnd
 
-en este apartado se subira todo lo relacionadado con las USPs, USPs se refiere a la normalización y verificación de direcciones. La normalización implica estandarizar los datos de direcciones según un formato aceptado, como el proporcionado por el Servicio Postal de los Estados Unidos (USPS). Esto ayuda a mejorar la validez y consistencia de las direcciones, aumentando las tasas de entrega y minimizando los correos devueltos³. En resumen, USPs en bases de datos se refiere a asegurar que las direcciones estén correctamente formateadas y validadas para su uso eficiente. 
+
   ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
