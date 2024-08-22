@@ -46,12 +46,7 @@
 7.	Desarrollar un apartado para realizar practicas respecto al curso que estén tomando.
 8.	 Implementar un sistema de recomendaciones personalizadas basadas en la visualización de información vista por el usuario.
 9.	Crear espacios para discusiones y preguntas
-10.	Permitir a los usuarios establecer y realizar seguimiento de sus metas profesionales.
-
----
-
-### Paleta de colores
-<img src="https://github.com/Jon-ram/EduMatch/blob/main/paleta.png" style="width:300px ; height:300px ;"/>
+10.	Permitir a los usuarios establecer y realizar seguimiento de sus metas profesionales
 
 ---
 ### Diagrama de Roles
