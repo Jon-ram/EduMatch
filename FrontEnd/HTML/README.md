@@ -18,5 +18,5 @@ En esta seccion se realizara y almacenara todo el codigo HTML utilizado para el 
 |----------|-------|---|-------------|
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Lider de FrontEnd|👌 Aprobado
 | Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Desarrollador FrontEnd|👌 Aprobado
-| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Desarrollador FrontEnd|❌ No a sido aprobado
+| Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Desarrollador FrontEnd|👌 Aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Desarrollador FrontEnd|👌 Aprobado
