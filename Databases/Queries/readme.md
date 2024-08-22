@@ -1,4 +1,4 @@
-# Queries
+# Queries ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 En este apartado se subira todo lo relacionado con queries de la base de datos.Las queries o consultas son instrucciones que se envían a una base de datos para recuperar, modificar o eliminar datos. En otras palabras, las queries permiten interactuar con la base de datos y realizar operaciones específicas sobre los datos almacenados en ella.
 
