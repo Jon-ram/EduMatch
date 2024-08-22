@@ -17,7 +17,7 @@ El objetivo del diccionario de datos es documentar los detalles tecnicos relacio
 >| - Documentation<br>
 >| - FrontEnd
 
-  ![DICCIONARIO DE DATOS]( https://github.com/agustin963/Integradora-I/blob/main/OIP.jpeg )git
+  ![DICCIONARIO DE DATOS]( https://github.com/agustin963/Integradora-I/blob/main/OIP.jpeg )
   ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|-------|---|-------------|
