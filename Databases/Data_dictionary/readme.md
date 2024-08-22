@@ -1,4 +1,10 @@
 # Diccionario de datos 
+
+En este carpeta se agregara el diccionario de la base de datos del software EduMach.
+El objetivo del diccionario de datos es documentar los detalles tecnicos relacionados
+ con el almacenamiento en la base de datos , incluyendo aspectos como el tipo de dato
+  , formato , longuitud y posibles valores.
+  
 >| - Backend <br>
 >**| - Database** <br>
 >&nbsp;&nbsp;|- Backups<br>
@@ -10,11 +16,6 @@
 >&nbsp;&nbsp;|- USPs<br>
 >| - Documentation<br>
 >| - FrontEnd
-
-En este carpeta se agregara el diccionario de la base de datos del software EduMach.
-El objetivo del diccionario de datos es documentar los detalles tecnicos relacionados
- con el almacenamiento en la base de datos , incluyendo aspectos como el tipo de dato
-  , formato , longuitud y posibles valores.
 
   ![DICCIONARIO DE DATOS]( https://github.com/agustin963/Integradora-I/blob/main/OIP.jpeg )git
   ## Equipo de Desarrollo
