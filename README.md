@@ -31,7 +31,7 @@
 ### Objetivo General
 <p align="justify">
   Crear un sitio web dedicado a ayudar a los jóvenes mediante diferentes tipos de estudio a tomar una mejor decisión respecto a la profesión que desean. esto impulsa a nuestros estudiantes a mejorar su desempeño academico,
-  y en la elecion que estos elijan sea de diversas opciones y mejoren en su vida a futuro  
+  y en la elecion que estos elijan sea de diversas opciones y mejoren en su vida a futuro.
 </p>
 
 ---
@@ -56,7 +56,8 @@
 ---
 
 ### Diagrama de Gantt
-![Cronograma_EduMatch](https://github.com/user-attachments/assets/71bfd619-a0a8-4711-aa4c-9edbb29f9adb)
+![Gráfico Cronograma Diagrama de Gantt Moderno y Corporativo Rojo y Blanco](https://github.com/user-attachments/assets/b384242c-b2a1-4693-a71f-1b32c0e5f3d0)
+
 
 
 ---
@@ -80,6 +81,5 @@
 - **Aplicacion:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - **Documentación:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - **Servidor:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
 
   
