@@ -1,4 +1,4 @@
-# Reglas de Negocio (Business Rules - BRs) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![image](https://github.com/user-attachments/assets/eeabf973-fbd2-40d3-a891-d4550777cf60)# Reglas de Negocio (Business Rules - BRs) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
 En este archivo encontraremos las reglas de negocio que determinan cómo debe comportarse un sistema en función de las políticas, procedimientos y necesidades de la organización. Estas reglas definen qué se debe hacer o no hacer en situaciones específicas, asegurando que el sistema refleje y cumpla con las normativas y objetivos del negocio.
@@ -24,5 +24,5 @@ En este archivo encontraremos las reglas de negocio que determinan cómo debe co
 |----------|-------|---|-------------|
 | Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Lider Documentation|✔️ No a sido aprobado
 | Brian Jesus Mendosa Marques|[@BR1ANJ3Sus3B](https://github.com/BR1ANJ3Sus3B)|Encargado Documentation|👌 Aprobado
-| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|❌ No a sido aprobado
+| Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Encargado Documentation|👌 Aprobado
 | José Agustín Jiménez Castillo|[@agustin963](https://github.com/agustin963)|Encargado Documentation|👌 Aprobado
